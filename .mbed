@@ -1,0 +1,4 @@
+TARGET=rblab_blenano2
+TOOLCHAIN=GCC_ARM
+ROOT=.
+
